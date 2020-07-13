@@ -21,7 +21,7 @@
          "responseTimeMicros":1588659891000000,
          "nuszInsertTimeMicros":1588659891000000,
          "nuszValidityStartTimeMicros":1588659891000000,
-         "nuszResponseState":2,
+         "nuszResponseState":0,
          "nuszResponseMessage":null,
          "nuszCategorySource":"UD",
          "priceGross":217.107,
